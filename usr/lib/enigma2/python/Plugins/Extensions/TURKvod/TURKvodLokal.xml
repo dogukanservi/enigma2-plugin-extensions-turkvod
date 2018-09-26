@@ -3,33 +3,39 @@
     <playlist_name><![CDATA[LOKAL LIST]]></playlist_name>
 
 <channel>
-<title><![CDATA[mail.ru]]></title>
+<title><![CDATA[TURKvod OZEL IPTV BOLUMU]]></title>
 <description></description>
-<stream_url><![CDATA[https://my.mail.ru/video/embed/5855166354419613720]]></stream_url>
+<playlist_url><![CDATA[http://turkvod.me/vv/]]></playlist_url>
+</channel>
+	
+<channel>
+<title><![CDATA[GUNLUK CCCAM - OSCAM INDIR * ESKI BILGILER SILINIR * ]]></title>
+<description></description>
+<stream_url><![CDATA[cccam]]></stream_url>
 </channel>
 
 <channel>
-<title><![CDATA[movshare]]></title>
+<title><![CDATA[ORNEK FILM LINKI]]></title>
 <description></description>
-<stream_url><![CDATA[http://www.movshare.net/video/a47a29c05ec58]]></stream_url>
+<stream_url><![CDATA[https://videoapi.my.mail.ru/videos/embed/bk/hdfilmcehennemi2/_myvideo/1419.html]]></stream_url>
 </channel>
 
 <channel>
-<title><![CDATA[mystream]]></title>
+<title><![CDATA[ORNEK IPTV LINKI]]></title>
 <description></description>
-<stream_url><![CDATA[http://mystream.la/embed-H0R8JUIGBWKP.html]]></stream_url>
+<stream_url><![CDATA[http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8]]></stream_url>
 </channel>
 
 <channel>
-<title><![CDATA[nowvideo]]></title>
+<title><![CDATA[ORNEK XML LINKI]]></title>
 <description></description>
-<stream_url><![CDATA[http://www.nowvideo.sx/video/c71fef8dba17a]]></stream_url>
+<playlist_url><![CDATA[http://turkvod.me/90/TURKvodLokal.xml]]></playlist_url>
 </channel>
 
 <channel>
-<title><![CDATA[ok.ru]]></title>
+<title><![CDATA[ORNEK M3U LINKI ]]></title>
 <description></description>
-<stream_url><![CDATA[https://ok.ru/videoembed/37705026294]]></stream_url>
+<playlist_url><![CDATA[TURKvodModul@http://cpradof.darkwebrepo.gq/logos/Listas/regiotv.m3u@m3u@TURKvod]]></playlist_url>
 </channel>
 	
 </items>
